@@ -31,6 +31,3 @@ O programa permite simular operações básicas de uma conta bancária, como con
 - **Saída de texto no console** (`System.out.println`)
 
 ---
-
-## 📂 Estrutura do Projeto
-
